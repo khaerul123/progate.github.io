@@ -11,6 +11,10 @@
      .site-footer {
         width: 100px;
     }
+     .footer-nav {
+	width: auto;
+	float: none;  
+     }
 }
 /* Untuk Smartphone */
 @media (max-width: 670px){
@@ -25,4 +29,8 @@
     .site-footer {
         width: 100px;
      }
+     .footer-nav {
+	width: auto;
+	float: none;  
+     }    	
 }
