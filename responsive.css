@@ -4,9 +4,8 @@
         position: inherit;
     }
     .message {
-        width: 100%;
-        padding: 0 30px;
-        margin: 0 auto;
+        width: auto;
+		float: none;
     }
      .site-footer {
         width: 100px;
@@ -14,12 +13,11 @@
 /* Untuk Smartphone */
 @media (max-width: 670px){
     .footer-logo {
-        position: inherit;
+       position: inherit;
     }
     .message {
-        width: 100%;
-        padding: 0 30px;
-        margin: 0 auto;
+        width: auto;
+		float: none;
     }
     .site-footer {
         width: 100px;
