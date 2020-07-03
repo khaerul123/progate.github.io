@@ -1,12 +1,21 @@
 /* Untuk Tablet */
 @media (max-width: 1000px){
+    .footer-logo {
+        position: inherit;
+    }
     .message {
         width: 100%;
         padding: 0 30px;
         margin: 0 auto;
     }
+     .site-footer {
+        width: 100px;
+    }
 /* Untuk Smartphone */
 @media (max-width: 670px){
+    .footer-logo {
+        position: inherit;
+    }
     .message {
         width: 100%;
         padding: 0 30px;
@@ -14,3 +23,4 @@
     }
     .site-footer {
         width: 100px;
+     }
