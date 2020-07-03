@@ -4,6 +4,10 @@
         width: auto;
 	float: none;   
     }
+	h2 {
+    font-size: 13px;
+    padding: 1px;
+    }
     .message {
         width: auto;
 	float: none;
@@ -18,11 +22,15 @@
 }
 /* Untuk Smartphone */
 @media (max-width: 670px){
-     .footer-logo {
+   .footer-logo {
         width: auto;
 	float: none;   
     }
-      .message {
+	h2 {
+    font-size: 13px;
+    padding: 1px;
+    }
+     .message {
         width: auto;
         float: none;
     }
