@@ -1,5 +1,9 @@
 /* Untuk Tablet */
 @media (max-width: 1000px){
+    .footer-logo {
+        width: auto;
+	float: none;   
+    }
     .message {
         width: auto;
 	float: none;
@@ -10,7 +14,11 @@
 }
 /* Untuk Smartphone */
 @media (max-width: 670px){
-    .message {
+     .footer-logo {
+        width: auto;
+	float: none;   
+    }
+      .message {
         width: auto;
         float: none;
     }
