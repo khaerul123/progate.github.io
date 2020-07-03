@@ -1,9 +1,8 @@
 /* Untuk Tablet */
 @media (max-width: 1000px){
     .footer-logo {
-         width: 100%;
-        padding: 0 30px;
-        margin: 0 auto;  
+        width: auto;
+	float: none;
     }
 	
      h2 {
@@ -28,9 +27,8 @@
 /* Untuk Smartphone */
 @media (max-width: 670px){
    .footer-logo {
-         width: 100%;
-        padding: 0 30px;
-        margin: 0 auto;  
+        width: auto;
+	float: none;
     }
 	
      h2 {
