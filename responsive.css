@@ -12,30 +12,3 @@
         padding: 0 30px;
         margin: 0 auto;
     }
-
-    article {
-        width: 100%;
-    }
-
-    .avatar {
-        margin: 0;
-        width: 100%;
-    }
-
-    .avatar img {
-        width: 200px;
-    }
-    
-    /*add animation*/
-    .avatar img:hover {
-        width: 210px;
-        margin-bottom: unset;
-        cursor: pointer;
-    }
-
-    .avatar:hover {
-        cursor: pointer;
-        transition: 0.3s;
-    }
-    /*add animation-end*/
-}
