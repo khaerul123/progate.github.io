@@ -1,24 +1,20 @@
 /* Untuk Tablet */
 @media (max-width: 1000px){
-    .footer-logo {
-        position: inherit;
-    }
     .message {
         width: auto;
-		float: none;
+	float: none;
     }
      .site-footer {
         width: 100px;
     }
+}
 /* Untuk Smartphone */
 @media (max-width: 670px){
-    .footer-logo {
-       position: inherit;
-    }
     .message {
         width: auto;
-		float: none;
+        float: none;
     }
     .site-footer {
         width: 100px;
      }
+}
